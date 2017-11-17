@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`class HelloWorld extends _react.Component {
+  constructor(props) {
+    super(props);
+    this.state = { greeting: "Hello" };
+    this.frenchify = this.frenchify.bind(this);
+    this.removeGreeting = this.removeGreeting.bind(this);
+  }
+  removeGreeting() {
+    this.props.removeGreeting(this.props.name);
+  }
+  frenchify() {
+    this.setState({ greeting: "Bonjour" });
+  }
+  render() {
+    return _react2.default.createElement("div", { className: "HelloWorld", __source: { fileName: _jsxFileName, lineNumber: 18 }, __self: this },
+      this.state.greeting, " ", this.props.name, "!",
+      _react2.default.createElement("br", { __source: { fileName: _jsxFileName, lineNumber: 20 }, __self: this }),
+      _react2.default.createElement("button", { className: "frenchify", onClick: this.frenchify, __source: { fileName: _jsxFileName, lineNumber: 21 }, __self: this }, "Frenchify!"),
+
+
+      _react2.default.createElement("br", { __source: { fileName: _jsxFileName, lineNumber: 24 }, __self: this }),
+      _react2.default.createElement("button", { className: "remove", onClick: this.removeGreeting, __source: { fileName: _jsxFileName, lineNumber: 25 }, __self: this }, "Remove Me!"));
+
+
+
+  }} renders and matches our snapshot 1`] = `
+<div
+  className="HelloWorld"
+>
+  Hello
+   
+  Person
+  !
+  <br />
+  <button
+    className="frenchify"
+    onClick={[Function]}
+  >
+    Frenchify!
+  </button>
+  <br />
+  <button
+    className="remove"
+    onClick={[Function]}
+  >
+    Remove Me!
+  </button>
+</div>
+`;
