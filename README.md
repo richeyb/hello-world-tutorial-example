@@ -51,10 +51,6 @@ npm test
 
 For more information about writing and running tests see [Learning React with Create-React-App Part 4](https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-4-9f843c8c1ccc) or the [Running Tests](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#running-tests) and [Writing Tests](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#writing-tests) in the Create-React-App User Guide.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
 ## Authors
 
 * **[Brandon Richey](https://github.com/richeyb)**
