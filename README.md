@@ -45,7 +45,7 @@ Now the application should be running on [http://localhost:3000/](http://localho
 npm test
 ```
 
-![Example Output](https://raw.githubusercontent.com/isaiahnixon/hello-world-tutorial-example/master/public/npm-test-output.png)
+![Example Output](https://raw.githubusercontent.com/isaiahnixon/hello-world-tutorial-example/master/public/npm-test-output.PNG)
 
 For more information about writing and running tests see [Learning React with Create-React-App Part 4](https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-4-9f843c8c1ccc) or the [Running Tests](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#running-tests) and [Writing Tests](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#writing-tests) in the Create-React-App User Guide.
 
