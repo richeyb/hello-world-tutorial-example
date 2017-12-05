@@ -1,8 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+This is the full code repo for the tutorial series [Learning React With Create-React-App](https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc).
+
 # Hello World Tutorial Example
 
-This is the full code repo for the tutorial series [Learning React With Create-React-App](https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc).
+One of the major complaints that was always repeated about React was how difficult it was to get started building an application. Tools such as create-react-app, and examples such as this repository breakdown that barrier of entry and make it easier for everyone to develop up-to-date and modern applications.
 
 ## Getting Started
 
